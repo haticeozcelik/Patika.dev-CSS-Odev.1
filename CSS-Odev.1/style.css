@@ -1,0 +1,32 @@
+h2{
+    color: darkmagenta;
+    font-size: 30px;
+}
+
+h3{
+    color: red;
+    font-size: 25px;
+}
+
+body{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+}
+img {
+ 
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+    height: 200px;
+    position: relative;
+  }
+  div{
+    text-align: center;
+  }
